@@ -19,7 +19,7 @@
 I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializing in **Machine Learning**, **AI Agents**, **Computer Vision**, and high-performance **Software Systems**. I love building resilient full-stack architectures and shipping production-grade applications that make an impact.
 
 - 🎓 **Education**: B.S. in Computer Science at **UCLA** (Honors program)
-- 🚀 **Currently**: Software Engineering Intern at a **Stealth AI Startup** & Projects Officer at **UCLA ACM AI**
+- 🚀 **Currently**: Software Engineering Intern at **Fiserv (Clover)** & Projects Officer at **UCLA ACM AI**
 - 🏆 **Awards**: 1st Place Track Winner at **LA Hacks 2026**, 3rd Place at **UC Berkeley Autonomous Racing**
 
 ---
@@ -161,9 +161,12 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
 
 ### 💼 Professional Experience
 
-* **Stealth AI Startup** | *Software Engineering Intern* (Nov 2025 - Present)
-  * Architected AI pipelines in Python, integrating LangChain RAG, AI agents, and transformer based sentiment analysis models to evaluate bias in 523K+ research papers; automated cloud deployments using Render and AWS cron jobs.
-  * Engineered data pipelines via Selenium web scraping, utilizing MongoDB (NoSQL) for unstructured document storage, integrating Supabase (PostgreSQL) for vector embeddings, and applying Redis caching to optimize query retrieval.
+* **Fiserv (Clover)** | *Software Engineering Intern* (June 2026 - Present)
+  * Engineered a distributed system migrating 500K+ merchants from legacy infrastructure to modern platform. Built Java microservices with automated schedulers to stream records into Kafka pub/sub queue for asynchronous processing.
+  * Developed an event driven consumer and Spring Boot REST API to upsert merchants into MongoDB database and trigger activation; deployed Docker containerized services to Kubernetes via Jenkins CI/CD. Built Android features in Kotlin.
+
+* **Stealth AI Startup** | *Software Engineering Intern* (Nov 2025 - June 2026)
+  * Building in stealth...
 
 * **League of Women Voters** | *Software Engineering Intern* (Aug 2022 - Sept 2025)
   * Built **VerifyIt**, a multiplayer civics education web app with real-time WebSockets synchronization using React, Node.js, Flask, and PostgreSQL.
