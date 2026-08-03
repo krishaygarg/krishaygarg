@@ -159,31 +159,25 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
 
 ---
 
-### 💼 Professional Experience
+### 💼 Experience
 
-* **Fiserv (Clover)** | *Software Engineering Intern* (June 2026 - Present)
-  * Engineered a distributed system migrating 500K+ merchants from legacy infrastructure to modern platform. Built Java microservices with automated schedulers to stream records into Kafka pub/sub queue for asynchronous processing.
-  * Developed an event driven consumer and Spring Boot REST API to upsert merchants into MongoDB database and trigger activation; deployed Docker containerized services to Kubernetes via Jenkins CI/CD. Built Android features in Kotlin.
-
-* **Stealth AI Startup** | *Software Engineering Intern* (Nov 2025 - June 2026)
-  * Building in stealth...
-
-* **League of Women Voters** | *Software Engineering Intern* (Aug 2022 - Sept 2025)
-  * Built **VerifyIt**, a multiplayer civics education web app with real-time WebSockets synchronization using React, Node.js, Flask, and PostgreSQL.
-  * Scaled to **100,000+ active users** and featured on **NPR (Here & Now)**.
-  * Automated campaign finance audit reporting using Pandas, NumPy, and Matplotlib data-processing pipelines, saving hundreds of staff hours.
-
-* **StemChef** | *Software Engineering Intern* (Mar 2024 - June 2025)
-  * Led development of immersive augmented reality (AR) educational applications using Unity, C#, and TypeScript.
+- **Fiserv (Clover)** · *Software Engineering Intern* `Jun 2026 – Present`
+  - 📍 Sunnyvale, CA · 🛠️ *Java, Spring Boot, Kafka, Kubernetes, MongoDB, Kotlin, Android, Cybersecurity, Jenkins CI/CD, Google Cloud*
+- **Stealth AI Startup** · *Software Engineering Intern* `Nov 2025 – Jun 2026`
+  - 📍 San Francisco, CA · 🛠️ *Python, Machine Learning Infrastructure, LLMs, AI Agents, RAG, Databases, AWS*
+- **League of Women Voters** · *Software Engineering Intern* `Aug 2022 – Sep 2025`
+  - 📍 San Jose, CA · 🛠️ *React, Node.js, WebSockets, Python, Flask, PostgreSQL, Pandas*
+- **StemChef** · *Software Engineering Intern* `Mar 2024 – Jun 2025`
+  - 📍 San Jose, CA · 🛠️ *Unity, C#, TypeScript, AR*
 
 ---
 
-### 🔬 Research & Publications
+### 🔬 Research
 
-* **Bayesian Neural Network Topology Uncertainty Analysis** (UC Santa Barbara SRA, 2024)
-  * Researched network topology impacts on model accuracy/uncertainty estimates (PyTorch, CIFAR-10, Fashion-MNIST). Submitted to *National High School Journal of Science*.
-* **Autonomous Vehicle Lane Detection & Navigation** (UC Berkeley ROAR, 2023)
-  * Designed lane detection algorithms & PID controllers inside CARLA simulator, winning 3rd place overall. Published on [Berkeley ROAR](https://roar.berkeley.edu/third-place-solution-in-summer-2023-simulation-racing-series/).
+- **UC Santa Barbara** · *Neuromorphic Computing Research* `Summer 2024`
+  - 📍 Santa Barbara, CA · 🛠️ *PyTorch, Bayesian Neural Networks, Uncertainty Analysis*
+- **UC Berkeley** · *Autonomous Racing Research* `Summer 2023`
+  - 📍 Berkeley, CA · 🛠️ *OpenCV, PID Control, Python*
 
 ---
 
@@ -192,4 +186,4 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
 * 💡 **UCLA ACM AI** | *Projects Officer* (Nov 2025 - Present)
   * Led hands-on workshops teaching deep learning, fine-tuning, and PyTorch concepts to 50+ students.
 * 🛸 **UCLA Unmanned Aerial Systems (UAS)** | *Computer Vision Team* (Oct 2025 - Present)
-  * Built real-time YOLO/OpenCV object tracking pipelines integrated with ROS (Robot Operating System) PID loops on an autonomous drone (50 FPS dynamic tracking).
+  * Built real-time YOLO/OpenCV object tracking pipelines integrated with ROS (Robot Operating System) PID loops on an autonomous drone.
