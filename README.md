@@ -184,6 +184,5 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
 ### 🏫 Campus Leadership & Involvement
 
 * 💡 **UCLA ACM AI** | *Projects Officer* (Nov 2025 - Present)
-  * Led hands-on workshops teaching deep learning, fine-tuning, and PyTorch concepts to 50+ students.
 * 🛸 **UCLA Unmanned Aerial Systems (UAS)** | *Computer Vision Team* (Oct 2025 - Present)
-  * Built real-time YOLO/OpenCV object tracking pipelines integrated with ROS (Robot Operating System) PID loops on an autonomous drone.
+* 🎓 **UCLA Upsilon Pi Epsilon (UPE)** | *CS Honor Society Member* (Nov 2025 - Present)
