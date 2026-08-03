@@ -64,10 +64,10 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
   <!-- Row 2: A-Eye & VerifyIt -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🕶️ <a href="https://github.com/krishaygarg/A-Eye">A-Eye: AI Glasses for Visually Impaired</a></h3>
+      <h3>🕶️ <a href="https://github.com/krishaygarg/AEye">A-Eye: AI Glasses for Visually Impaired</a></h3>
       <p><i>Wearable computer vision glasses aiding visually impaired individuals to navigate physical spaces safely.</i></p>
       <p>
-        <a href="https://github.com/krishaygarg/A-Eye"><img src="https://img.shields.io/badge/Status-1st%20Place%20LA%20Hacks%202026-gold?style=flat-square" alt="Award"/></a>
+        <a href="https://github.com/krishaygarg/AEye"><img src="https://img.shields.io/badge/Status-1st%20Place%20LA%20Hacks%202026-gold?style=flat-square" alt="Award"/></a>
         <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" alt="YOLOv8"/>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
       </p>
@@ -76,13 +76,13 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
         <li>Implemented audio translations using ElevenLabs and OpenAI Whisper.</li>
         <li>Built mobile streaming client in React Native to forward high-FPS camera streams.</li>
       </ul>
-      <p align="right"><a href="https://github.com/krishaygarg/A-Eye"><b>Explore Code ➔</b></a></p>
+      <p align="right"><a href="https://github.com/krishaygarg/AEye"><b>Explore Code ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/krishaygarg/VerifyIt-multiplayer">VerifyIt Multiplayer Game</a></h3>
+      <h3>🎮 <a href="https://github.com/krishaygarg/VerifyItV4">VerifyIt Multiplayer Game</a></h3>
       <p><i>A full-stack multiplayer civics education web application scaled to over 100,000+ active users.</i></p>
       <p>
-        <a href="https://github.com/krishaygarg/VerifyIt-multiplayer"><img src="https://img.shields.io/badge/Featured%20On-NPR-red?style=flat-square" alt="NPR"/></a>
+        <a href="https://github.com/krishaygarg/VerifyItV4"><img src="https://img.shields.io/badge/Featured%20On-NPR-red?style=flat-square" alt="NPR"/></a>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/WebSockets-Socket.io-blue?style=flat-square" alt="WebSockets"/>
       </p>
@@ -91,17 +91,17 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
         <li>Engineered React front-end, Node.js game controller, and Python Flask API.</li>
         <li>Presented platform on NPR (Here & Now) to millions of listeners.</li>
       </ul>
-      <p align="right"><a href="https://github.com/krishaygarg/VerifyIt-multiplayer"><b>Explore Code ➔</b></a></p>
+      <p align="right"><a href="https://github.com/krishaygarg/VerifyItV4"><b>Explore Code ➔</b></a></p>
     </td>
   </tr>
 
   <!-- Row 3: ROAR Autonomous Driving -->
   <tr>
     <td colspan="2" valign="top">
-      <h3>🏎️ <a href="https://github.com/krishayg/ROARSummer_Krishay_Garg">UC Berkeley Autonomous Racing (ROAR)</a></h3>
+      <h3>🏎️ <a href="https://github.com/krishaygarg/ROARSummer_Krishay_Garg">UC Berkeley Autonomous Racing (ROAR)</a></h3>
       <p><i>Computer vision lane detection and PID navigation systems for autonomous vehicles in the CARLA simulator.</i></p>
       <p>
-        <a href="https://github.com/krishayg/ROARSummer_Krishay_Garg"><img src="https://img.shields.io/badge/Awards-3rd%20Place%20Berkeley%20ROAR-bronze?style=flat-square" alt="Award"/></a>
+        <a href="https://github.com/krishaygarg/ROARSummer_Krishay_Garg"><img src="https://img.shields.io/badge/Awards-3rd%20Place%20Berkeley%20ROAR-bronze?style=flat-square" alt="Award"/></a>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/PID%20Control-blue?style=flat-square" alt="PID"/>
         <img src="https://img.shields.io/badge/CARLA-Simulation-green?style=flat-square" alt="CARLA"/>
@@ -111,7 +111,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
         <li>Developed adaptive PID control loops for vehicle stabilization and racing-line navigation.</li>
         <li>Placed third globally and published research highlights on the Berkeley ROAR site.</li>
       </ul>
-      <p align="right"><a href="https://github.com/krishayg/ROARSummer_Krishay_Garg"><b>Explore Code ➔</b></a></p>
+      <p align="right"><a href="https://github.com/krishaygarg/ROARSummer_Krishay_Garg"><b>Explore Code ➔</b></a></p>
     </td>
   </tr>
 </table>
