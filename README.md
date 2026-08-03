@@ -185,4 +185,4 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
 
 * 💡 **UCLA ACM AI** | *Projects Officer* (Nov 2025 - Present)
 * 🛸 **UCLA Unmanned Aerial Systems (UAS)** | *Computer Vision Team* (Oct 2025 - Present)
-* 🎓 **UCLA Upsilon Pi Epsilon (UPE)** | *CS Honor Society Member* (Nov 2025 - Present)
+* 🎓 **UCLA Upsilon Pi Epsilon (UPE)** | *CS Honor Society Member* (April 2026 - Present)
