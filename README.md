@@ -42,7 +42,6 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
         <li>Implemented dynamic lip-syncing using audio-conditioned U-Nets to manipulate VAE latent spaces.</li>
         <li>Integrated zero-shot voice cloning using acoustic encoders.</li>
       </ul>
-      <p align="right"><a href="https://github.com/krishaygarg/video-translation"><b>Explore Code ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>♟️ <a href="https://github.com/floatingtrees/Chess-GPT">Chess-GPT</a></h3>
@@ -57,7 +56,6 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
         <li>Increased correct move generation by 95% over base models.</li>
         <li>Achieved reasoning capabilities through strategic positioning.</li>
       </ul>
-      <p align="right"><a href="https://github.com/floatingtrees/Chess-GPT"><b>Explore Code ➔</b></a></p>
     </td>
   </tr>
 
@@ -76,7 +74,6 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
         <li>Implemented audio translations using ElevenLabs and OpenAI Whisper.</li>
         <li>Built mobile streaming client in React Native to forward high-FPS camera streams.</li>
       </ul>
-      <p align="right"><a href="https://github.com/krishaygarg/AEye"><b>Explore Code ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/krishaygarg/VerifyItV4">VerifyIt Multiplayer Game</a></h3>
@@ -91,7 +88,6 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
         <li>Engineered React front-end, Node.js game controller, and Python Flask API.</li>
         <li>Presented platform on NPR (Here & Now) to millions of listeners.</li>
       </ul>
-      <p align="right"><a href="https://github.com/krishaygarg/VerifyItV4"><b>Explore Code ➔</b></a></p>
     </td>
   </tr>
 
@@ -111,7 +107,6 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
         <li>Developed adaptive PID control loops for vehicle stabilization and racing-line navigation.</li>
         <li>Placed third globally and published research highlights on the Berkeley ROAR site.</li>
       </ul>
-      <p align="right"><a href="https://github.com/krishaygarg/ROARSummer_Krishay_Garg"><b>Explore Code ➔</b></a></p>
     </td>
   </tr>
 </table>
