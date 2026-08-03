@@ -164,11 +164,11 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
 - **Fiserv (Clover)** · *Software Engineering Intern* `Jun 2026 – Present`
   - 📍 Sunnyvale, CA · 🛠️ *Java, Spring Boot, Kafka, Kubernetes, MongoDB, Kotlin, Android, Cybersecurity, Jenkins CI/CD, Google Cloud*
 - **Stealth AI Startup** · *Software Engineering Intern* `Nov 2025 – Jun 2026`
-  - 📍 San Francisco, CA · 🛠️ *Python, Machine Learning Infrastructure, LLMs, AI Agents, RAG, Databases, AWS*
+  - 📍 Los Angeles, CA · 🛠️ *Python, Machine Learning Infrastructure, LLMs, AI Agents, RAG, Databases, AWS*
 - **League of Women Voters** · *Software Engineering Intern* `Aug 2022 – Sep 2025`
-  - 📍 San Jose, CA · 🛠️ *React, Node.js, WebSockets, Python, Flask, PostgreSQL, Pandas*
+  - 📍 Alameda, CA · 🛠️ *React, Node.js, WebSockets, Python, Flask, PostgreSQL, Pandas*
 - **StemChef** · *Software Engineering Intern* `Mar 2024 – Jun 2025`
-  - 📍 San Jose, CA · 🛠️ *Unity, C#, TypeScript, AR*
+  - 📍 Pleasanton, CA · 🛠️ *Unity, C#, TypeScript, AR*
 
 ---
 
