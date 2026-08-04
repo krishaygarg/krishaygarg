@@ -16,7 +16,7 @@
 
 ### 💫 About Me
 
-I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializing in **Machine Learning**, **AI Agents**, **Computer Vision**, and high-performance **Software Systems**. I love building resilient full-stack architectures and shipping production-grade applications that make an impact.
+I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00). I love building software applications that make an impact and help other people.
 
 - 🎓 **Education**: B.S. in Computer Science at **UCLA** (Honors program)
 - 🚀 **Currently**: Software Engineering Intern at **Fiserv (Clover)** & Projects Officer at **UCLA ACM AI**
@@ -233,7 +233,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
 
 - **Fiserv (Clover)** · *Software Engineering Intern* `Jun 2026 – Present`
   - 📍 Sunnyvale, CA · 🛠️ *Java, Spring Boot, Kafka, Kubernetes, MongoDB, Kotlin, Android, Cybersecurity, Jenkins CI/CD, Google Cloud*
-- **Stealth AI Startup** · *Software Engineering Intern* `Nov 2025 – Jun 2026`
+- **Mana World** · *Software Engineering Intern* `Nov 2025 – Jun 2026`
   - 📍 Los Angeles, CA · 🛠️ *Python, Machine Learning Infrastructure, LLMs, AI Agents, RAG, Databases, AWS*
 - **League of Women Voters** · *Software Engineering Intern* `Aug 2022 – Sep 2025`
   - 📍 Alameda, CA · 🛠️ *React, Node.js, WebSockets, Python, Flask, PostgreSQL, Pandas*
