@@ -31,7 +31,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
   <tr>
     <td width="50%" valign="top">
       <h3>🗣️ <a href="https://github.com/krishaygarg/VideoTranslation">Video Translation Pipeline</a></h3>
-      <p>Automated end-to-end video translation and dubbing pipeline combining Whisper ASR, audio-conditioned U-Nets, and zero-shot voice cloning for accurate lip-syncing and speaker identity retention.</p>
+      <p>Automatically translates and dubs videos into different languages while preserving the speaker's original voice clone and matching their exact mouth movements.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
         <img src="https://img.shields.io/badge/Whisper%20ASR-blue?style=flat-square" alt="Whisper ASR"/>
@@ -41,7 +41,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
     </td>
     <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/krishaygarg/AdaRemediator">AdaRemediator</a></h3>
-      <p>Deep learning document accessibility engine leveraging YOLOv8 computer vision layout detection and Model Context Protocol (MCP) server integration to automate PDF remediation.</p>
+      <p>Scans inaccessible PDF documents and automatically fixes their layout structures so screen readers can seamlessly read them to visually impaired users.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
         <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" alt="YOLOv8"/>
@@ -55,7 +55,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
   <tr>
     <td width="50%" valign="top">
       <h3>🕶️ <a href="https://github.com/krishaygarg/AEye">A-Eye: AI Glasses for Visually Impaired</a></h3>
-      <p>Wearable computer vision glasses providing real-time spatial awareness, object detection, and audio feedback to assist visually impaired individuals in navigating physical spaces safely.</p>
+      <p>Smart wearable glasses that describe physical surroundings in real-time through audio feedback, helping blind and visually impaired users navigate spaces safely.</p>
       <p>
         <a href="https://github.com/krishaygarg/AEye"><img src="https://img.shields.io/badge/1st%20Place%20LA%20Hacks-gold?style=flat-square" alt="Award"/></a>
         <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" alt="YOLOv8"/>
@@ -65,7 +65,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
     </td>
     <td width="50%" valign="top">
       <h3>♟️ <a href="https://github.com/floatingtrees/Chess-GPT">Chess-GPT</a></h3>
-      <p>Fine-tuned a Large Language Model using Group Relative Policy Optimization (GRPO) and LoRA to output legal and strategic chess moves, boosting move generation accuracy by 95% over base models.</p>
+      <p>Teaches AI language models to play valid, strategic chess by learning from move evaluations, boosting valid move generation by 95% over base models.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
         <img src="https://img.shields.io/badge/GRPO%20RL-orange?style=flat-square" alt="GRPO"/>
@@ -79,7 +79,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
   <tr>
     <td width="50%" valign="top">
       <h3>🗳️ <a href="https://github.com/krishaygarg/VoteClear">VoteClear RAG</a></h3>
-      <p>A Retrieval-Augmented Generation (RAG) platform that indexes political candidate positions using vector embeddings and hybrid search to deliver objective, accessible platform analysis.</p>
+      <p>An AI research assistant that helps voters easily compare political candidate stances and policies through clear, objective, source-backed summaries.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/RAG-Hybrid%20Search-blue?style=flat-square" alt="RAG"/>
@@ -89,7 +89,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
     </td>
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/krishaygarg/VerifyItV4">VerifyIt Multiplayer Game</a></h3>
-      <p>A real-time full-stack multiplayer civics education web application scaled to 100,000+ active users and featured nationally on NPR.</p>
+      <p>A real-time trivia game that teaches civics and news literacy through interactive multiplayer competition, reaching over 100,000 active student players.</p>
       <p>
         <a href="https://github.com/krishaygarg/VerifyItV4"><img src="https://img.shields.io/badge/Featured%20On-NPR-red?style=flat-square" alt="NPR"/></a>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -103,7 +103,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
   <tr>
     <td width="50%" valign="top">
       <h3>🏎️ <a href="https://github.com/krishaygarg/ROARSummer_Krishay_Garg">UC Berkeley Autonomous Racing (ROAR)</a></h3>
-      <p>Autonomous vehicle perception and navigation system featuring OpenCV lane detection and adaptive PID control loops for CARLA simulator environments.</p>
+      <p>Self-driving car software that detects road lanes and steers vehicles safely around race tracks at high speeds in simulated driving environments.</p>
       <p>
         <a href="https://github.com/krishaygarg/ROARSummer_Krishay_Garg"><img src="https://img.shields.io/badge/3rd%20Place%20Berkeley%20ROAR-bronze?style=flat-square" alt="Award"/></a>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
@@ -113,7 +113,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
     </td>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/krishaygarg/LocalRAG">LocalRAG CLI</a></h3>
-      <p>A fast C++17 CLI retrieval-augmented generation assistant that indexes local Markdown files using a custom Binary Search Tree (BST) and integrates with LLM APIs.</p>
+      <p>A fast, lightweight command-line tool that lets you search and ask AI questions directly about your personal notes stored locally on your machine.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++17"/>
         <img src="https://img.shields.io/badge/Binary%20Search%20Tree-darkgreen?style=flat-square" alt="BST"/>
@@ -127,7 +127,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
   <tr>
     <td width="50%" valign="top">
       <h3>📦 <a href="https://github.com/krishaygarg/CloverInventory">Clover Inventory Multiplatform</a></h3>
-      <p>Compose Multiplatform inventory client and Kotlin/Wasm checkout web app communicating seamlessly with POS systems using Clover REST APIs.</p>
+      <p>A point-of-sale inventory and checkout application that helps store owners manage products and process purchases across mobile devices and web browsers.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
         <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose"/>
@@ -137,7 +137,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
     </td>
     <td width="50%" valign="top">
       <h3>🎨 <a href="https://github.com/krishaygarg/DiffusionModels">Diffusion Models Guide</a></h3>
-      <p>Comprehensive PyTorch implementations and interactive notebooks detailing DDPM, Latent Diffusion models, VAE architectures, U-Nets, and LoRA fine-tuning.</p>
+      <p>An educational guide and code repository breaking down step-by-step how modern generative AI image models create images from text prompts.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
         <img src="https://img.shields.io/badge/Diffusion-DDPM-orange?style=flat-square" alt="Diffusion"/>
@@ -151,7 +151,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
   <tr>
     <td colspan="2" valign="top">
       <h3>🚀 <a href="https://github.com/krishaygarg/VoidMiners">VoidMiners 2D Engine</a></h3>
-      <p>Grid-based 2D puzzle game built in C++ and SFML 3 where players configure finite state machine logic to navigate autonomous mining drones through asteroid environments.</p>
+      <p>A 2D space puzzle game where players program behaviors for autonomous mining drones to help them navigate past hazards and extract resources.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
         <img src="https://img.shields.io/badge/SFML%203-8CC04F?style=flat-square" alt="SFML 3"/>
