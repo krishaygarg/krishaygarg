@@ -27,86 +27,137 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
 ### 🌟 Featured Repositories
 
 <table>
-  <!-- Row 1: Video Translation & Chess-GPT -->
+  <!-- Row 1: Video Translation & AdaRemediator -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🗣️ <a href="https://github.com/krishaygarg/video-translation">Video Translation Pipeline</a></h3>
-      <p><i>An automated pipeline to translate videos into target languages while maintaining precise lip-syncing and speaker voice identity.</i></p>
+      <h3>🗣️ <a href="https://github.com/krishaygarg/VideoTranslation">Video Translation Pipeline</a></h3>
+      <p>Automated end-to-end video translation and dubbing pipeline combining Whisper ASR, audio-conditioned U-Nets, and zero-shot voice cloning for accurate lip-syncing and speaker identity retention.</p>
       <p>
-        <img src="https://img.shields.io/badge/Whisper%20ASR-blue?style=flat-square" alt="ASR"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/U--Net%20%2F%20VAE-lightgrey?style=flat-square" alt="U-Net/VAE"/>
+        <img src="https://img.shields.io/badge/Whisper%20ASR-blue?style=flat-square" alt="Whisper ASR"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
       </p>
-      <ul>
-        <li>Created syllable-matching duration-alignment using NLP synonym swapping & beam search.</li>
-        <li>Implemented dynamic lip-syncing using audio-conditioned U-Nets to manipulate VAE latent spaces.</li>
-        <li>Integrated zero-shot voice cloning using acoustic encoders.</li>
-      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>♟️ <a href="https://github.com/floatingtrees/Chess-GPT">Chess-GPT</a></h3>
-      <p><i>Fine-tuned a Large Language Model to output logical and legal chess movements using reinforcement learning.</i></p>
+      <h3>📄 <a href="https://github.com/krishaygarg/AdaRemediator">AdaRemediator</a></h3>
+      <p>Deep learning document accessibility engine leveraging YOLOv8 computer vision layout detection and Model Context Protocol (MCP) server integration to automate PDF remediation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Rating-1000+%20Elo-success?style=flat-square" alt="Elo"/>
-        <img src="https://img.shields.io/badge/GRPO-RL-orange?style=flat-square" alt="GRPO"/>
-        <img src="https://img.shields.io/badge/LoRA-Alignment-purple?style=flat-square" alt="LoRA"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" alt="YOLOv8"/>
+        <img src="https://img.shields.io/badge/MCP%20Server-purple?style=flat-square" alt="MCP Server"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
       </p>
-      <ul>
-        <li>Utilized Group Relative Policy Optimization (GRPO) and LoRA for resource-efficient alignment.</li>
-        <li>Increased correct move generation by 95% over base models.</li>
-        <li>Achieved reasoning capabilities through strategic positioning.</li>
-      </ul>
     </td>
   </tr>
 
-  <!-- Row 2: A-Eye & VerifyIt -->
+  <!-- Row 2: AEye & Chess-GPT -->
   <tr>
     <td width="50%" valign="top">
       <h3>🕶️ <a href="https://github.com/krishaygarg/AEye">A-Eye: AI Glasses for Visually Impaired</a></h3>
-      <p><i>Wearable computer vision glasses aiding visually impaired individuals to navigate physical spaces safely.</i></p>
+      <p>Wearable computer vision glasses providing real-time spatial awareness, object detection, and audio feedback to assist visually impaired individuals in navigating physical spaces safely.</p>
       <p>
-        <a href="https://github.com/krishaygarg/AEye"><img src="https://img.shields.io/badge/Status-1st%20Place%20LA%20Hacks%202026-gold?style=flat-square" alt="Award"/></a>
+        <a href="https://github.com/krishaygarg/AEye"><img src="https://img.shields.io/badge/1st%20Place%20LA%20Hacks-gold?style=flat-square" alt="Award"/></a>
         <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" alt="YOLOv8"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
       </p>
-      <ul>
-        <li>Engineered object detection & obstacle mapping using YOLO and OpenCV.</li>
-        <li>Implemented audio translations using ElevenLabs and OpenAI Whisper.</li>
-        <li>Built mobile streaming client in React Native to forward high-FPS camera streams.</li>
-      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/krishaygarg/VerifyItV4">VerifyIt Multiplayer Game</a></h3>
-      <p><i>A full-stack multiplayer civics education web application scaled to over 100,000+ active users.</i></p>
+      <h3>♟️ <a href="https://github.com/floatingtrees/Chess-GPT">Chess-GPT</a></h3>
+      <p>Fine-tuned a Large Language Model using Group Relative Policy Optimization (GRPO) and LoRA to output legal and strategic chess moves, boosting move generation accuracy by 95% over base models.</p>
       <p>
-        <a href="https://github.com/krishaygarg/VerifyItV4"><img src="https://img.shields.io/badge/Featured%20On-NPR-red?style=flat-square" alt="NPR"/></a>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/WebSockets-Socket.io-blue?style=flat-square" alt="WebSockets"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/GRPO%20RL-orange?style=flat-square" alt="GRPO"/>
+        <img src="https://img.shields.io/badge/LoRA-Alignment-purple?style=flat-square" alt="LoRA"/>
+        <img src="https://img.shields.io/badge/LLMs-00A67E?style=flat-square&logo=openai&logoColor=white" alt="LLM"/>
       </p>
-      <ul>
-        <li>Built synchronous multiplayer gameplay using WebSockets/Socket.io.</li>
-        <li>Engineered React front-end, Node.js game controller, and Python Flask API.</li>
-        <li>Presented platform on NPR (Here & Now) to millions of listeners.</li>
-      </ul>
     </td>
   </tr>
 
-  <!-- Row 3: ROAR Autonomous Driving -->
+  <!-- Row 3: VoteClear & VerifyIt -->
   <tr>
-    <td colspan="2" valign="top">
-      <h3>🏎️ <a href="https://github.com/krishaygarg/ROARSummer_Krishay_Garg">UC Berkeley Autonomous Racing (ROAR)</a></h3>
-      <p><i>Computer vision lane detection and PID navigation systems for autonomous vehicles in the CARLA simulator.</i></p>
+    <td width="50%" valign="top">
+      <h3>🗳️ <a href="https://github.com/krishaygarg/VoteClear">VoteClear RAG</a></h3>
+      <p>A Retrieval-Augmented Generation (RAG) platform that indexes political candidate positions using vector embeddings and hybrid search to deliver objective, accessible platform analysis.</p>
       <p>
-        <a href="https://github.com/krishaygarg/ROARSummer_Krishay_Garg"><img src="https://img.shields.io/badge/Awards-3rd%20Place%20Berkeley%20ROAR-bronze?style=flat-square" alt="Award"/></a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/RAG-Hybrid%20Search-blue?style=flat-square" alt="RAG"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/krishaygarg/VerifyItV4">VerifyIt Multiplayer Game</a></h3>
+      <p>A real-time full-stack multiplayer civics education web application scaled to 100,000+ active users and featured nationally on NPR.</p>
+      <p>
+        <a href="https://github.com/krishaygarg/VerifyItV4"><img src="https://img.shields.io/badge/Featured%20On-NPR-red?style=flat-square" alt="NPR"/></a>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 4: UC Berkeley ROAR & LocalRAG -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏎️ <a href="https://github.com/krishaygarg/ROARSummer_Krishay_Garg">UC Berkeley Autonomous Racing (ROAR)</a></h3>
+      <p>Autonomous vehicle perception and navigation system featuring OpenCV lane detection and adaptive PID control loops for CARLA simulator environments.</p>
+      <p>
+        <a href="https://github.com/krishaygarg/ROARSummer_Krishay_Garg"><img src="https://img.shields.io/badge/3rd%20Place%20Berkeley%20ROAR-bronze?style=flat-square" alt="Award"/></a>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/PID%20Control-blue?style=flat-square" alt="PID"/>
         <img src="https://img.shields.io/badge/CARLA-Simulation-green?style=flat-square" alt="CARLA"/>
       </p>
-      <ul>
-        <li>Designed robust lane detection algorithms in OpenCV to handle complex lighting variations.</li>
-        <li>Developed adaptive PID control loops for vehicle stabilization and racing-line navigation.</li>
-        <li>Placed third globally and published research highlights on the Berkeley ROAR site.</li>
-      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/krishaygarg/LocalRAG">LocalRAG CLI</a></h3>
+      <p>A fast C++17 CLI retrieval-augmented generation assistant that indexes local Markdown files using a custom Binary Search Tree (BST) and integrates with LLM APIs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++17"/>
+        <img src="https://img.shields.io/badge/Binary%20Search%20Tree-darkgreen?style=flat-square" alt="BST"/>
+        <img src="https://img.shields.io/badge/LLM%20API-00A67E?style=flat-square" alt="LLM API"/>
+        <img src="https://img.shields.io/badge/RAG-blue?style=flat-square" alt="RAG"/>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 5: Clover Inventory & Diffusion Models -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/krishaygarg/CloverInventory">Clover Inventory Multiplatform</a></h3>
+      <p>Compose Multiplatform inventory client and Kotlin/Wasm checkout web app communicating seamlessly with POS systems using Clover REST APIs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
+        <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose"/>
+        <img src="https://img.shields.io/badge/Wasm-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="Wasm"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/krishaygarg/DiffusionModels">Diffusion Models Guide</a></h3>
+      <p>Comprehensive PyTorch implementations and interactive notebooks detailing DDPM, Latent Diffusion models, VAE architectures, U-Nets, and LoRA fine-tuning.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/Diffusion-DDPM-orange?style=flat-square" alt="Diffusion"/>
+        <img src="https://img.shields.io/badge/U--Net-blue?style=flat-square" alt="U-Net"/>
+        <img src="https://img.shields.io/badge/LoRA-PEFT-purple?style=flat-square" alt="LoRA"/>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 6: VoidMiners 2D Engine -->
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🚀 <a href="https://github.com/krishaygarg/VoidMiners">VoidMiners 2D Engine</a></h3>
+      <p>Grid-based 2D puzzle game built in C++ and SFML 3 where players configure finite state machine logic to navigate autonomous mining drones through asteroid environments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/SFML%203-8CC04F?style=flat-square" alt="SFML 3"/>
+        <img src="https://img.shields.io/badge/State%20Machine-gray?style=flat-square" alt="State Machine"/>
+        <img src="https://img.shields.io/badge/2D%20Game-black?style=flat-square" alt="2D Game"/>
+      </p>
     </td>
   </tr>
 </table>
