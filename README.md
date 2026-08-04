@@ -147,7 +147,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
     </td>
   </tr>
 
-  <!-- Row 6: CompassLog & VoidMiners -->
+  <!-- Row 6: CompassLog & KalshiBot -->
   <tr>
     <td width="50%" valign="top">
       <h3>🧭 <a href="https://github.com/krishaygarg/CompassLog">CompassLog</a></h3>
@@ -160,6 +160,20 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/krishaygarg/KalshiBot">KalshiBot Arbitrage Engine</a></h3>
+      <p>High-frequency prediction market arbitrage bot in Rust that detects real-time price gaps between Kalshi and Manifold Markets to execute automated limit orders.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+        <img src="https://img.shields.io/badge/Tokio-Async-blue?style=flat-square" alt="Tokio"/>
+        <img src="https://img.shields.io/badge/WebSockets-Socket.io-blue?style=flat-square" alt="WebSockets"/>
+        <img src="https://img.shields.io/badge/Prediction%20Markets-green?style=flat-square" alt="Prediction Markets"/>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 7: VoidMiners 2D Engine -->
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🚀 <a href="https://github.com/krishaygarg/VoidMiners">VoidMiners 2D Engine</a></h3>
       <p>A 2D space puzzle game where players program behaviors for autonomous mining drones to help them navigate past hazards and extract resources.</p>
       <p>
