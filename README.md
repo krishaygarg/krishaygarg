@@ -147,9 +147,19 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
     </td>
   </tr>
 
-  <!-- Row 6: VoidMiners 2D Engine -->
+  <!-- Row 6: CompassLog & VoidMiners -->
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h3>🧭 <a href="https://github.com/krishaygarg/CompassLog">CompassLog</a></h3>
+      <p>Parses server web logs in real-time to detect suspicious traffic anomalies and display live system health metrics on an interactive dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Log%20Analysis-orange?style=flat-square" alt="Log Analysis"/>
+        <img src="https://img.shields.io/badge/Anomaly%20Detection-purple?style=flat-square" alt="Anomaly Detection"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🚀 <a href="https://github.com/krishaygarg/VoidMiners">VoidMiners 2D Engine</a></h3>
       <p>A 2D space puzzle game where players program behaviors for autonomous mining drones to help them navigate past hazards and extract resources.</p>
       <p>
