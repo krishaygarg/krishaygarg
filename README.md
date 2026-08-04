@@ -64,7 +64,7 @@ I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00) specializ
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>♟️ <a href="https://github.com/floatingtrees/Chess-GPT">Chess-GPT</a></h3>
+      <h3>♟️ <a href="https://github.com/krishaygarg/ChessGPT">Chess-GPT</a></h3>
       <p>Teaches AI language models to play valid, strategic chess by learning from move evaluations, boosting valid move generation by 95% over base models.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
