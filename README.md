@@ -18,8 +18,8 @@
 
 I am a **Computer Science student at UCLA** (Class of 2028, GPA: 4.00). I love building software applications that make an impact and help other people.
 
-- 🎓 **Education**: B.S. in Computer Science at **UCLA** (Honors program)
-- 🚀 **Currently**: Software Engineering Intern at **Fiserv (Clover)** & Projects Officer at **UCLA ACM AI**
+- 🎓 **Education**: B.S. in Computer Science at **UCLA**
+- 🚀 **Currently**: Software Engineering Intern at **Fiserv (Clover)**
 - 🏆 **Awards**: 1st Place Track Winner at **LA Hacks 2026**, 3rd Place at **UC Berkeley Autonomous Racing**
 
 ---
